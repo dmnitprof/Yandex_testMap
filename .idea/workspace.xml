@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2843d775-5052-4168-b4e0-dc8a0fc0f992" name="Default Changelist" comment="edit sdd">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="2843d775-5052-4168-b4e0-dc8a0fc0f992" name="Default Changelist" comment="edit sdd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605524628752</updated>
-      <workItem from="1605524631186" duration="368000" />
+      <workItem from="1605524631186" duration="696000" />
     </task>
     <task id="LOCAL-00001" summary="edit sdd">
       <created>1605524916409</created>
@@ -60,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605524916409</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="edit sdd">
+      <created>1605525014224</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605525014224</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,9 +87,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="edit sdd" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="175" y="52" key="Vcs.Push.Dialog.v2" timestamp="1605524919345">
+    <state x="175" y="52" key="Vcs.Push.Dialog.v2" timestamp="1605525021555">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="175" y="52" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605524919345" />
+    <state x="175" y="52" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605525021555" />
   </component>
 </project>
