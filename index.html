@@ -13,19 +13,18 @@
         function init(){
             const myMap = new ymaps.Map("map", {
                 center: [55.447021, 37.515699],
-                zoom: 18,
+                zoom: 15,
                 controls: ["zoomControl", "geolocationControl", "typeSelector"]
             });
 
             const placemark = new ymaps.Placemark([55.447021, 37.515699], {
-                balloonContent: `<p class="test">Наш обитель, Ерино дом 5</p>`,
+                balloonContent: `<p class="test">Наш обитель,<br>Ерино д. 5</p>`,
                 hintContent: "\"Новая Москва\""
             })
 
             myMap.geoObjects.add(placemark)
             placemark.balloon.open()
         }
-
     </script>
     <link rel="stylesheet" href="style.css">
 </head>
